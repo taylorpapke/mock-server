@@ -1,4 +1,14 @@
 {
-    "todos": []
+  "todos": [
+    {
+      "id": "068f",
+      "title": "eat lunch",
+      "completed": false
+    },
+    {
+      "id": "9984",
+      "title": "do homework",
+      "completed": false
+    }
+  ]
 }
-  
